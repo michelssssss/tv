@@ -1,0 +1,682 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/images/logo.png" group-title="", Listaiptvbrasil.com 07/01/17
+http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/globo.png" group-title="CANAL ABERTO",GLOBO
+http://31.204.128.117:8081/live/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/globo.png" group-title="CANAL ABERTO",GLOBO
+http://wse2.transmissaodigital.com:1935/redecanaisglobo/redecanaisglobo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetv.png" group-title="CANAL ABERTO",REDETV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/pampa.png" group-title="CANAL ABERTO",REDETV PAMPA RS
+http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvsudoeste.png" group-title="CANAL ABERTO",REDETV SUDOESTE PR
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetvrn.png" group-title="CANAL ABERTO",REDETV RN
+http://tv.taaqui.org:1935/redetvrn/redetvrn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetvrondonia.png" group-title="CANAL ABERTO",REDETV RONDÔNIA
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvarapuan.png" group-title="CANAL ABERTO",REDETV ARAPUAN -  PB
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvbaiana.png" group-title="CANAL ABERTO",TV CULTURA - BAHIA
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvitarare.png" group-title="CANAL ABERTO", TV CULTURA HD - ITARARÉ PB
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvcultura.gif" group-title="CANAL ABERTO",TV CULTURA - MT
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAL ABERTO",SBT HD
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAL ABERTO",SBT SP INTERIOR
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvcidade.png" group-title="CANAL ABERTO",SBT PI (OCASIONAL)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjornal.png" group-title="CANAL ABERTO", SBT RECIFE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjornal.png" group-title="CANAL ABERTO", SBT CARUARU
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvaratu.png" group-title="CANAL ABERTO", SBT BA - TV ARATU
+http://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbtpb.png" group-title="CANAL ABERTO", SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/bemtv.png" group-title="CANAL ABERTO", SBT MT - BEM TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/chaves.png" group-title="CANAL ABERTO", CHAVES
+http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="CANAL ABERTO", RECORD TV - SP (MANUTENÇÃO)
+http://31.204.128.117:8081/live/record/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="ANGOLA", TV MIRAMAR - RECORD ANGOLA
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/acritica.JPG" group-title="CANAL ABERTO", ACRÍTICA PLAY - RECORD MANAUS
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2143012/e/0_dm4rwkh4/t/BEPMXlN7c-EKVDYFPMUGzg/index-s32-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvvitoria.png" group-title="CANAL ABERTO", TV Vitoria RECORD ES HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/rictv.png" group-title="CANAL ABERTO",RECORD PR HD
+http://caikron.com.br:1935/ricpr/curitiba.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvcorreio.png" group-title="CANAL ABERTO", TV CORREIO PB
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/band.png" group-title="CANAL ABERTO", BAND SP
+http://31.204.128.117:8081/live/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/rba.jpg" group-title="CANAL ABERTO", BAND RBA - PARÁ
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/band.png" group-title="CANAL ABERTO", BAND RO - TV REGIONAL (OCASIONAL)
+http://173.236.10.10:1935/band/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvgazeta.png" group-title="CANAL ABERTO", TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvalternativa.png" group-title="CANAL ABERTO", TV GAZETA MA (OCASIONAL)
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redefamilia.png" group-title="CANAL ABERTO", REDE FAMÍLIA
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvescola.png" group-title="CANAL ABERTO",TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvdiario.png" group-title="CANAL ABERTO", TV DIÁRIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redebrasil.png" group-title="CANAL ABERTO", REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redebrasil.png" group-title="CANAL ABERTO", TV BRUSQUE - REDE BRASIL
+http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvmarajoara.png" group-title="CANAL ABERTO", TV MARAJOARA - REDE BRASIL (MANUTENÇÃO)
+http://104.156.60.74:1935/canal50/canal50/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/ngt.png" group-title="CANAL ABERTO", NGT RJ HD
+http://iphone-streaming.ustream.tv:80/uhls/14419615/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/ngt.png" group-title="CANAL ABERTO", NGT - TVTC
+http://streaming59.sitehosting.com.br:1935/tvtc/_definst_/tvtc/chunklist_w2043059567.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camara.png" group-title="CANAL ABERTO", TV CAMARA
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjustica.png" group-title="CANAL ABERTO", TV JUSTIÇA
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvsenado.png" group-title="CANAL ABERTO", TV SENADO
+http://www.tvmpf.mpf.mp.br:1935/event426/event426.stream_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/futura.png" group-title="CANAL ABERTO", FUTURA - TV UNIVATES HD
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvup.png" group-title="CANAL ABERTO", FUTURA TV UP
+http://caikron.com.br:8081/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvers.png" group-title="CANAL ABERTO", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvaperipe.png" group-title="REGIONAIS", TV APERIPÊ
+http://cdn-br-002938543.comets.com.br/tvaperipe/aovivo/chunklist_w1894049196.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvuniao.png" group-title="CANAL ABERTO", TV UNIÃO
+http://38.96.175.108:1935/tvuniao/tvuniao/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redemeionorte.png" group-title="CANAL ABERTO", REDE MEIO NORTE
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvurbana.png" group-title="CANAL ABERTO", TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8?IPTVBRASILHD
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/eparana.png" group-title="CANAL ABERTO", E-PARANÁ
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/amazonsat.png" group-title="CANAL ABERTO", AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/shoptime.png" group-title="CANAL ABERTO", SHOPTIME
+http://cdnapi.kaltura.com/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/g2ptv.png" group-title="CANAL ABERTO", G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvguarany.png" group-title="WEBTV",TV GUARANY
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvt.png" group-title="CANAL ABERTO", TVT HD - TV BRASIL
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvebahia.png" group-title="CANAL ABERTO", TVE BAHIA - TV BRASIL
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/fishtv.png" group-title="VARIEDADES", FISH TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aparecidahd.png" group-title="RELIGIOSO", TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redevida.gif" group-title="RELIGIOSO", REDE VIDA
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/cancaonova.png" group-title="RELIGIOSO", CANÇÃO NOVA
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redegospel.png" group-title="RELIGIOSO",REDE GOSPEL
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/rit.png" group-title="RELIGIOSO",RIT
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/mundial.png" group-title="RELIGIOSO",IMPD TV
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/novotempo.png" group-title="RELIGIOSO",TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redesuper.png" group-title="RELIGIOSO",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/recnews.png" group-title="JORNALISMO", RECORD NEWS ES
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvguara.png" group-title="JORNALISMO", RECORD NEWS TO
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/globonews.png" group-title="JORNALISMO", GLOBO NEWS
+http://v.pool.us.wse-1.srvstream.com:1935/oncafebrasil2015/oncafebrasil2015_720p/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/bandsports.png" group-title="ESPORTES", BANDSPORTS HD
+http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/esporteinterativo.png" group-title="ESPORTES", ESPORTE INTERATIVO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/eimax.png" group-title="ESPORTES", EI MAXX
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/eimax2.png" group-title="ESPORTES", EI MAXX 2
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sportv.png" group-title="ESPORTES", SPORTV
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/544.ts
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sportv2.png" group-title="ESPORTES", SPORTV 2
+http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/545.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/podgod/podgod/master/plugin.video.CanTVLive/icons/history.png" group-title="DOCUMENTARIOS", HISTORY
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/foxsports.png" group-title="ESPORTES", FOX SPORTS
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/premiere.png" group-title="ESPORTES", PREMIERE
+http://192.99.148.73:8080/live/Daniele/P70JYMC78l/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/combate.png" group-title="ESPORTES", COMBATE
+http://31.204.128.117:8081/live/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/realmadrid.jpg" group-title="ESPORTES", REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/cartoon.png" group-title="INFANTIL", CARTOON NETWORK
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/zE4LH74mgZ/6W8MfBRgoLqtTTCm.png" group-title="INFANTIL", NICKELODEON
+http://wse2.transmissaodigital.com:1935/redecanaisnick/redecanaisnick/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/discoverykids.png" group-title="INFANTIL", DISCOVERY KIDS
+http://31.204.128.117:8081:8081/live/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tateti.png" group-title="ARGENTINA", TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_628_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/animetv.png" group-title="INFANTIL", ANIME TV - ESPANHOL
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/megapix.png" group-title="FILMES", MEGAPIX / HBO (MANUTENÇÃO)
+http://31.204.128.117:8081/live/megapix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="FILMES", TELECINE PREMIUM
+http://31.204.128.117:8081/live/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/OlePaWPFFJ/nFQE1EkPdEnaa2qL.png" group-title="FILMES", RBX TV - FILMES
+http://78.129.184.15:4722/streaming/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/mixtv.png" group-title="MUSICA", MIX TV BRASIL
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/toptv.png" group-title="MUSICA", TOP TV
+http://209.133.205.130:1935/toptv/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/clipes.png" group-title="MUSICA", TV CLIPES GOSPEL
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/yee.png" group-title="MUSICA", YEEAH!
+http://stmv2.srvstm.com/bruno4119/bruno4119/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvclima.png" group-title="MUSICA", TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/virgin.png" group-title="MUSICA", VIRGIN TV
+http://fms.105.net:1935/live/virgin2%20/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/euronews.png" group-title="PORTUGAL", EURONEWS PT
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/euronews.png" group-title="ESPANHOL", EURONEWS ES
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/24-live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvi.png" group-title="PORTUGAL", TVI PT
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvi24.png" group-title="PORTUGAL", TVI 24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-3/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/abcnews.png" group-title="EUA", ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/foxnews.jpg" group-title="EUA", FOX NEWS
+http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/cbsnews.png" group-title="EUA", CBS NEWS HD (KODI)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/cnn.gif" group-title="EUA", CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/bloomberg.gif" group-title="EUA", BLOOMBERG HD
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/bbcnewsworld.png" group-title="UK", BBC WORLD NEWS
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/trutv.png" group-title="EUA", TRU TV (ENG)
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/h2.png" group-title="EUA", H2 EUA
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/discoverychannel.png" group-title="EUA", DISCOVERY CHANNEL HD EUA (temp)
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/animal.png" group-title="EUA", ANIMAL PLANET L!VE HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/nasatv.png" group-title="EUA", NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/iss.jpg" group-title="EUA", ISS AO VIVO - ESTAÇÃO ESPACIAL
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/wgn.png" group-title="EUA", WGN NEWS
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/univision.png" group-title="EUA", UNIVISION
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/telemundo.png" group-title="EUA", TELEMUNDO HD
+http://stream.ssh101.com:1935/live/anahix7/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/versus.png" group-title="ESPORTES", VERSUS (ENG)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/now.png" group-title="ESPORTES", NFL NOW HD (KODI)
+https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redbull.png" group-title="ESPORTES", RED BULL TV HD
+https://elementaldelta2.redbull.tv/30_5.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/pokercentral.jpg" group-title="ESPORTES", POKER CENTRAL (ENG)
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/nhk.jpg" group-title="JAPAO", NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/arirang.png" group-title="KOREA", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/mbc.jpg" group-title="KOREA", MBC
+http://119.202.61.202:1935/live/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/rt.png" group-title="RUSSIA", RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/gametv.png" group-title="RUSSIA", GAME SHOW TV - RÚSSIA
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/estrellas.png" group-title="MEXICO", CANAL DE LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/forotv.png" group-title="MEXICO", FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvazteca.png" group-title="MEXICO",TV AZTECA GUATEMALA 
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvaztecatrece.png" group-title="MEXICO", AZTECA TRECE
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/rainews.png" group-title="ITALIA", RAI NEWS
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/historylab.png" group-title="ITALIA", HISTORY LAB - ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/dw.png" group-title="ALEMANHA", DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/france.png" group-title="FRANÇA", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tv5monde.png" group-title="FRANÇA",TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeera.png" group-title="ARABIC", ALJAZEERA ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="ARABIC", ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/djing.png" group-title="MUSICA", DIJING IBIZA HD
+http://cdn.djing.com/tv/d-03.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/djing.png" group-title="MUSICA", DIJING ANIMATION
+http://cdn.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/nrjhits.png" group-title="MUSICA", NRJ HITS - BELJIQUE
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/hittv.png" group-title="MUSICA", HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/central.png" group-title="VARIEDADES", CENTRAL TV
+http://172.93.110.130:1935/rbt/rbt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/bhnewstv.png" group-title="VARIEDADES", BH NEWS
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/gvnews.png" group-title="WEB TV", GVNEWS - VITÓRIA ES
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/viamorena.png" group-title="WEB TV", WEB TV VIA MORENA
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/cinematvplay.png" group-title="WEB TV", CINEMA TV PLAY - ESPANHOL
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/livretv.png" group-title="CANAL ABERTO", LIVRE TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/multitv.png" group-title="CANAL ABERTO", MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvgeral.png" group-title="CANAL ABERTO", TV GERAL BA
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/milktv.png" group-title="WEBTV", MILK TV
+http://stmv1.hostgs.net/jtvmilk/jtvmilk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvfaap.png" group-title="CANAL ABERTO", TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/pontanegranews.png" group-title="WEBTV", PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetvanapolis.png" group-title="WEBTV", REDETV ANÁPOLIS - GO
+http://173.236.34.138:1935/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tbo.png" group-title="WEBTV",TBO ANAPOLIS
+http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/rbc.jpg" group-title="CANAL ABERTO",TV RBC
+http://flash1.crossdigital.com.br:1935/ponto10/latina/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvpantanal.png" group-title="WEBTV",TV PANTANAL
+http://78.46.36.212:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjapi.png" group-title="WEBTV",TV JAPI
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjornallimeira.png" group-title="CANAL ABERTO",TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvbirigui.jpg" group-title="WEBTV", TV BIRIGUI
+http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/canalrural.png" group-title="VARIEDADES", CANAL RURAL
+http://67149o.ha.azioncdn.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/canalx.png" group-title="VARIEDADES", CANAL RURAL X
+http://77149o.ha.azioncdn.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/agitos.png" group-title="WEBTV", TV CN AGITOS - RN
+http://wsemedia.com:1935/cn01/cn01/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvdopovo.jpg" group-title="CANAL ABERTO", REDE MEIO NORTE - TV DO POVO  - RO
+http://live-15.viewer.dacast.com/i/dclive_1@83035/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", BOA VIAGEM - RECIFE
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_595.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", SANTUÁRIO DE APARECIDA - ALTAR CENTRAL
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", GUARUJÁ - PRAIA DA ENSEADA
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", ARENA ALLIANZ PARQUE - PALESTRA ITÁLIA SP
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1093.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", PRAIA DO PORTO DA BARRA - SALVADOR
+https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_1284.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", JARDIM BOTÂNICO - CURITIBA
+http://streaming01.sulaovivo.com.br:1935/jardin_botanico_PR/default.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", PONTE DA AMIZADE - FOZ DO AGUAÇU
+http://wowza.catve.com.br:1935/camera4/camera4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/camera.jpg" group-title="CAMERAS", TÓKIO - AKIHABARA
+http://iphone-streaming.ustream.tv/uhls/5883040/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/cbn.png" group-title="RADIOS", CBN SP 90.5 FM - ESTÚDIO AO VIVO
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/live.m3u8
+
+#EXTINF:-1, Episódio 01 - Todo mundo odeia o Chris
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/279e3eec.mp4
+#EXTINF:-1, Episódio 02 - Todo mundo odeia Keisha
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/cf4492ed.mp4
+#EXTINF:-1, Episódio 03 - Todo mundo odeia Basquetebo
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/6dc72818.mp4
+#EXTINF:-1, Episódio 04 - Todo mundo odeia linguiça
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/20c9a691.mp4
+#EXTINF:-1, Episódio 05 - Todo mundo odeia Mikão
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/4fff2fd8.mp4
+#EXTINF:-1,Episódio 06 - Todo mundo odeia Halloween
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/78ef4722.mp4
+#EXTINF:-1, Episódio 07 - Todo mundo odeia a babá
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/173afdc0.mp4
+#EXTINF:-1, Episódio 08 - Todo mundo odeia a lavanderia
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/57275edd.mp4
+#EXTINF:-1, Episódio 09 - Todo mundo odeia comida de 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/f4c53873.mp4
+#EXTINF:-1, Episódio 10 - Todo mundo odeia Greg
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/d0513905.mp4
+#EXTINF:-1, Episódio 11 - Todo mundo odeia Natal
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/faec56b9.mp4
+#EXTINF:-1, Episódio 12 - Todo mundo odeia emprego temporário
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/e1c64132.mp4
+#EXTINF:-1, Episódio 13 - Todo mundo odeia tirar foto 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/bdbc98fe.mp4
+#EXTINF:-1, Episódio 14 - Todo mundo odeia Dia dos Namorados
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/d23fcd2b.mp4
+#EXTINF:-1, Episódio 15 - Todo mundo odeia loteria
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/89889026.mp4
+#EXTINF:-1, Episódio 16 - Todo mundo odeia gota 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/8873d179.mp4
+#EXTINF:-1, Episódio 17 - Todo mundo odeia Funeral
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/0c436fef.mp4
+#EXTINF:-1, Episódio 18 - Todo mundo odeia Corleone
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/07242b97.mp4
+#EXTINF:-1, Episódio 19 - Todo mundo odeia Drew
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/9bd900d9.mp4
+#EXTINF:-1, Episódio 20 - Todo mundo odeia Playboy 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/4b69f3d3.mp4
+#EXTINF:-1, Episódio 21 - Todo mundo odeia a prisão
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/de86c2f9.mp4
+#EXTINF:-1, Episódio 22 - Todo mundo odeia o Dia dos Pais
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/d1d9ec3b.mp4
+#EXTINF:-1, Episódio 01 - Todo mundo odeia rejeição 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP01.mp4
+#EXTINF:-1, Episódio 02 - Todo mundo odeia o presidente do grêmio
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP02.mp4
+#EXTINF:-1, Episódio 03 - Todo mundo odeia eleições
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP03.mp4
+#EXTINF:-1, Episódio 04 - Todo mundo odeia um mentiroso 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP04.mp4
+#EXTINF:-1, Episódio 05 - Todo mundo odeia Malvo
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP05.mp4
+#EXTINF:-1, Episódio 06 - Todo mundo odeia sistema de parceiragem
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP06.mp4   
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP07.mp4
+#EXTINF:-1, Episódio 08 - Todo mundo odeia feriado
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP08.mp4
+#EXTINF:-1, Episódio 09 - Todo mundo odeia superstição - Assistir
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP09.mp4
+#EXTINF:-1, Episódio 10 - Todo mundo odeia Papai Noel
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP10.mp4
+#EXTINF:-1, Episódio 11 - Todo mundo odeia ovos
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP11.mp4
+#EXTINF:-1, Episódio 12 - Todo mundo odeia os inspetores
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP12.mp4
+#EXTINF:-1, Episódio 13 - Todo mundo odeia o inverno
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP13.mp4
+#EXTINF:-1, Episódio 14 - Todo mundo odeia o substituto 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP14.mp4
+#EXTINF:-1, Episódio 15 - Todo mundo odeia matar aula
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP15.mp4
+#EXTINF:-1, Episódio 16 - Todo mundo odeia roubar correntes 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP16.mp4
+#EXTINF:-1, Episódio 17 - Todo mundo odeia DJs 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP17.mp4
+#EXTINF:-1, Episódio 18 - Todo mundo odeia beisebol
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP18.mp4
+#EXTINF:-1, Episódio 19 - Todo mundo odeia apostar 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP19.mp4
+#EXTINF:-1, Episódio 20 - Todo mundo odeia piadas sujas
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP20.mp4
+#EXTINF:-1, Episódio 21 -  Todo mundo odeia matemática
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP21.mp4
+#EXTINF:-1, Episódio 22 - Todo mundo odeia o último dia
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT02EP22.mp4
+#EXTINF:-1, Episódio 23 - Todo mundo odeia o orientador
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP01.mp4
+#EXTINF:-1, Episódio 24 - Todo mundo odeia Caruso 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP02.mp4
+#EXTINF:-1, Episódio 25 - Todo mundo odeia  Dirigir
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP03.mp4
+#EXTINF:-1, Episódio 26 - Todo mundo odeia o Cachorro
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP04.mp4
+#EXTINF:-1, Episódio 27 - Todo mundo odeia o Casa de Solteiro
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP05.mp4
+#EXTINF:-1, Episódio 28 - Todo mundo odeia o Bed-Stuy -
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP06.mp4
+#EXTINF:-1, Episódio 29 - Todo mundo odeia o hóspedes
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP07.mp4
+#EXTINF:-1, Episódio 30 - Todo mundo odeia o novato
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP08.mp4
+#EXTINF:-1, Episódio 31 - Todo mundo odeia o  Kwanzaa
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP09.mp4
+#EXTINF:-1, Episódio 32 - Todo mundo odeia o salário mínimo
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP10.mp4
+#EXTINF:-1, Episódio 33 - Todo mundo odeia o a Rodoviária
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP11.mp4
+#EXTINF:-1, Episódio 34 - Todo mundo odeia o Bad Boys
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP12.mp4
+#EXTINF:-1, Episódio 35 - Todo mundo odeia o Primeiro Beijo
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP13.mp4
+#EXTINF:-1, Episódio 36 - Todo mundo odeia o  a Páscoa
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP14.mp4
+#EXTINF:-1, Episódio 37 - Todo mundo odeia o Gretzky
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP15.mp4
+#EXTINF:-1, Episódio 38 - Todo mundo odeia o o DFN
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP16.mp4
+#EXTINF:-1, Episódio 39 - Todo mundo odeia o  Ex-presidiário 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP17.mp4
+#EXTINF:-1, Episódio 40 - Todo mundo odeia o  ser Descolado
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP18.mp4
+#EXTINF:-1, Episódio 41 - Todo mundo odeia o Baile da Nona Série
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP19.mp4
+#EXTINF:-1, Episódio 42 - Todo mundo odeia o Baile da Nona Série
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP20.mp4
+#EXTINF:-1, Episódio 43 - Todo mundo odeia o  Dia das Mães
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP21.mp4
+#EXTINF:-1, Episódio 44 - Todo mundo odeia o  Formatura
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT03EP22.mp4
+#EXTINF:-1, Episódio 45 - Todo mundo odeia o  Tattaglia
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP01.mp4
+#EXTINF:-1, Episódio 46 - Todo mundo  odeia o Bolo
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP02.mp4
+#EXTINF:-1, Episódio 47 - Todo mundo odeia o  Baile
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP03.mp4
+#EXTINF:-1, Episódio 48 - 0Todo mundo odeia o  Professora de Literatura
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP04.mp4
+#EXTINF:-1, Episódio 49 - Todo mundo odeia o Odeia o Meu Brothe
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP05.mp4
+#EXTINF:-1, Episódio 50 - Todo mundo odeia o Doc 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP06.mp4
+#EXTINF:-1, Episódio 51 - Todo mundo odeia o X-9 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP07.mp4
+#EXTINF:-1, Episódio 52 - Todo mundo odeia o  Garotas Altas e Magras
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP08.mp4
+#EXTINF:-1, Episódio 53 - Todo mundo odeia  James -
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP09.mp4
+#EXTINF:-1, Episódio 54 - Todo mundo odeia o Véspera do Ano Novo
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP10.mp4
+#EXTINF:-1, Episódio 55 - Todo mundo odeia o Sr. Levine
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP11.mp4
+#EXTINF:-1, Episódio 56 - Todo mundo odeia o Lutadores Fracassados
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP12.mp4
+#EXTINF:-1, Episódio 57 - Todo mundo odeia o Odeia Identidades Falsas 
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP13.mp4
+#EXTINF:-1, Episódio 58 - Todo mundo odeia o Odeia Exames para Faculdade
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP14.mp4
+#EXTINF:-1, Episódio 59 - Todo mundo odeia o Odeia Boxe
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP15.mp4
+#EXTINF:-1, Episódio 60 - Todo mundo odeia o Lasanha
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP16.mp4
+#EXTINF:-1, Episódio 61 - Todo mundo odeia o Semana da Primavera
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP17.mp4
+#EXTINF:-1, Episódio 62 - Todo mundo odeia o Odeia Carro
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP18.mp4
+#EXTINF:-1, Episódio 63 - Todo mundo odeia o Lavar a Louça
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP19.mp4
+#EXTINF:-1, Episódio 64 - Todo mundo odeia o Tasha
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP20.mp4
+#EXTINF:-1, Episódio 65 - bTodo mundo odeia o Ameaças de Bomba
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP21.mp4
+#EXTINF:-1, Episódio 66 - Todo mundo odeia o Supletivo
+http://cdn.ec.cx/vd/dd/RC/RCServer01/videos/TDMNDOCT04EP22.mp4
